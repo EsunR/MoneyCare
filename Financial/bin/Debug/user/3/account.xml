@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <OwnerName>小明</OwnerName>
+    <CardNum>12306</CardNum>
+    <BankbookNum>2333333</BankbookNum>
+    <StartDate>2017-11-28T15:43:25</StartDate>
+    <BankName>中国银行</BankName>
+    <MoneyType>比特币</MoneyType>
+    <AccountType>私人</AccountType>
+    <IniBlance>1000</IniBlance>
+    <RemainBlance>10</RemainBlance>
+    <Remark>这是一个测试</Remark>
+  </Account>
+  <Account>
+    <OwnerName>小张</OwnerName>
+    <CardNum>123456</CardNum>
+    <BankbookNum>666</BankbookNum>
+    <StartDate>2017-12-20T15:44:28</StartDate>
+    <BankName>东京银行</BankName>
+    <MoneyType>日元</MoneyType>
+    <AccountType>企业</AccountType>
+    <IniBlance>10000</IniBlance>
+    <RemainBlance>20</RemainBlance>
+    <Remark>这是第二个测试</Remark>
+  </Account>
+  <Account>
+    <OwnerName>1</OwnerName>
+    <CardNum>3</CardNum>
+    <BankbookNum>2222</BankbookNum>
+    <StartDate>2017-12-21T21:10:05</StartDate>
+    <BankName />
+    <MoneyType />
+    <AccountType />
+    <IniBlance>0</IniBlance>
+    <RemainBlance>0</RemainBlance>
+    <Remark />
+  </Account>
+</ArrayOfAccount>

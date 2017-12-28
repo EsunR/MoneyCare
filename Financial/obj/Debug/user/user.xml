@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <DirOfDataFile>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\user\2</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\2</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\user\2\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\2\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>2</UserName>
+    <PassWord>2</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+</ArrayOfUser>

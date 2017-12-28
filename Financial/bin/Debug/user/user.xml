@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <DirOfDataFile>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\user\1</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\1</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\user\1\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\1\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>1</UserName>
+    <PassWord>1</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+  <User>
+    <DirOfDataFile>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\user\2</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\2</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\user\2\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\2\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>2</UserName>
+    <PassWord>2</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+  <User>
+    <DirOfDataFile>C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\bin\Debug\user\3</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\3</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\bin\Debug\user\3\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\3\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>3</UserName>
+    <PassWord>3</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+</ArrayOfUser>

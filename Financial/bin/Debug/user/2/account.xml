@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <OwnerName>user1</OwnerName>
+    <CardNum>0001</CardNum>
+    <BankbookNum>1</BankbookNum>
+    <StartDate>2017-12-13T12:35:21</StartDate>
+    <BankName>建设银行</BankName>
+    <MoneyType>人民币</MoneyType>
+    <AccountType>活期</AccountType>
+    <IniBlance>100000</IniBlance>
+    <RemainBlance>100000</RemainBlance>
+    <Remark>存钱</Remark>
+  </Account>
+  <Account>
+    <OwnerName>user2</OwnerName>
+    <CardNum>0002</CardNum>
+    <BankbookNum>2</BankbookNum>
+    <StartDate>2017-12-13T12:36:27</StartDate>
+    <BankName>工商</BankName>
+    <MoneyType>美元</MoneyType>
+    <AccountType>死期</AccountType>
+    <IniBlance>1000</IniBlance>
+    <RemainBlance>1000</RemainBlance>
+    <Remark>存钱</Remark>
+  </Account>
+</ArrayOfAccount>

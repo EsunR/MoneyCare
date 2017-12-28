@@ -1,0 +1,50 @@
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\Financial.exe
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\Financial.pdb
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.csprojResolveAssemblyReference.cache
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.AboutBox_AboutUs.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormMain.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormAccountManage.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormAddAccount.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormDebitManage.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormFinancialManage.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormLogin.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormManageItem.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormPswModify.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.FormRegistNewUser.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.Properties.Resources.resources
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.csproj.GenerateResource.Cache
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.exe
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\obj\Debug\Financial.pdb
+C:\Users\我行我素\Desktop\个人财务管理系统源码\Backup\Financial\bin\Debug\Financial.exe.config
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\bin\Debug\Financial.exe.config
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\bin\Debug\Financial.exe
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\bin\Debug\Financial.pdb
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.csprojResolveAssemblyReference.cache
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.AboutBox_AboutUs.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormMain.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormAccountManage.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormAddAccount.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormFinancialManage.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormLogin.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormPswModify.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.FormRegistNewUser.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.Properties.Resources.resources
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.csproj.GenerateResource.Cache
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.exe
+C:\Users\EsunR\Desktop\个人财务管理系统源码 - 2\个人财务管理系统源码 - 1\Backup\Financial\obj\Debug\Financial.pdb
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\bin\Debug\Financial.exe
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\bin\Debug\Financial.pdb
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.csprojResolveAssemblyReference.cache
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.AboutBox_AboutUs.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormMain.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormAccountManage.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormAddAccount.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormLogin.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormPswModify.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.FormRegistNewUser.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.Properties.Resources.resources
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.csproj.GenerateResource.Cache
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.exe
+C:\Users\EsunR\Documents\GitHub\MoneyCare\Backup\Financial\obj\Debug\Financial.pdb
